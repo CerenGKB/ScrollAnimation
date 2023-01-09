@@ -1,16 +1,8 @@
-# Three.js Journey
+A scroll based animation with three.js using gsap,
+Parallax effect and Ray Casting for spin on hover
 
-## Setup
-Download [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
 
-``` bash
-# Install dependencies (only the first time)
-npm install
 
-# Run the local server at localhost:8080
-npm run dev
 
-# Build for production in the dist/ directory
-npm run build
-```
+https://user-images.githubusercontent.com/47979970/211376413-43b35245-3867-4928-95b3-b20a2b56897c.mp4
+
